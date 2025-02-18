@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nettey-senpai
+- 👋 Hi, I’m Jeffrey Nettey
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning web development
 - 📫 How to reach me : netteyjeff@gmail.com
